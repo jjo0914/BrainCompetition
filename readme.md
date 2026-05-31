@@ -15,4 +15,8 @@ From a 3-Grasping-Task Classification Problem to a Hand Joint Angle Prediction P
 
 ![](simu2.jpg)
 
-# 
+# Demo
+
+ModelLoadTest.py로 부터 16관절각 예측 -> TCP/IP로 Simulink로 전송
+
+![](demo.gif)
