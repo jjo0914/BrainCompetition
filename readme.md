@@ -9,10 +9,10 @@ From a 3-Grasping-Task Classification Problem to a Hand Joint Angle Prediction P
 
 전체 Simulink 구성  
 
-![](simu2.jpg)
+![](simu1.jpg)
 
 손가락 관절의 Simulink 구성  
 
-![](simu1.jpg)
+![](simu2.jpg)
 
 # 
