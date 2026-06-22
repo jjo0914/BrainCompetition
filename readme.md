@@ -18,6 +18,7 @@ From a 3-Grasping-Task Classification Problem to a Hand Joint Angle Prediction P
 
 # Demo
 intro.ipynb에서 PyTorch 기반 CNN 모델을 이용하여 EEG 신호를 학습하였다.
+![](result.jpg)
 
 이후 ModelLoadTest.py에서 학습된 모델을 불러와 16개 관절각을 예측하고, 예측값을 TCP/IP 통신을 통해 Simulink로 전송하였다.
 
